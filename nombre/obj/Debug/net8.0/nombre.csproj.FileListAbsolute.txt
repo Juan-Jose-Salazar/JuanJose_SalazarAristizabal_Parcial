@@ -1,0 +1,15 @@
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\bin\Debug\net8.0\nombre.exe
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\bin\Debug\net8.0\nombre.deps.json
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\bin\Debug\net8.0\nombre.runtimeconfig.json
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\bin\Debug\net8.0\nombre.dll
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\bin\Debug\net8.0\nombre.pdb
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.AssemblyInfoInputs.cache
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.AssemblyInfo.cs
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.csproj.CoreCompileInputs.cache
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.sourcelink.json
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.dll
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\refint\nombre.dll
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.pdb
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\nombre.genruntimeconfig.cache
+C:\Users\juani\JuanJose_SalazarAristizabal_Parcial\nombre\obj\Debug\net8.0\ref\nombre.dll
